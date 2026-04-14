@@ -102,7 +102,13 @@ index.html
 
 Puedes ver el proyecto funcionando aquí:
 
-👉 [https://TUUSUARIO.github.io/TUREPO/](https://jroldanpomareta.github.io/invernadero/)
+<div align="center">
+
+<a href="https://jroldanpomareta.github.io/invernadero/">
+  <img src="https://img.shields.io/badge/🌐 Ver Demo Online-green?style=for-the-badge"/>
+</a>
+
+</div>
 
 ---
 
