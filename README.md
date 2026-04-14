@@ -19,7 +19,7 @@
 
 </div>
 
----
+
 
 ## 📖 Descripción
 
@@ -27,7 +27,7 @@ Aplicación web interactiva que simula el crecimiento de plantas dentro de un in
 
 El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo crecen de forma animada hasta alcanzar el techo del invernadero.
 
----
+
 
 ## 🚀 Características
 
@@ -38,7 +38,7 @@ El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo c
 - 🔄 Botón de reinicio (Replantar)  
 - 🌱 Animaciones dinámicas con JavaScript  
 
----
+
 
 ## 📸 Vista del proyecto
 
@@ -48,7 +48,21 @@ El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo c
 
 </div>
 
----
+## 🌸 Tipos de plantas
+
+<div align="center">
+
+<img src="img/flores/Cactus suculenta.png" width="120"/>
+<img src="img/flores/Flor animada.png" width="120"/>
+<img src="img/flores/Flor sencilla.png" width="120"/>
+
+<br><br>
+
+<img src="img/flores/Florecita infantil.png" width="120"/>
+<img src="img/flores/Mini aloe vera.png" width="120"/>
+<img src="img/flores/Una flor sonriente.png" width="120"/>
+
+</div>
 
 ## 🛠️ Tecnologías
 
@@ -56,7 +70,7 @@ El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo c
 - CSS3  
 - JavaScript  
 
----
+
 
 ## 📂 Estructura del proyecto
 
@@ -72,7 +86,7 @@ El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo c
 📄 PAC_UF2_RoldanPomaretaJavier.pdf
 
 
----
+
 
 ## ⚙️ Funcionamiento
 
@@ -82,7 +96,7 @@ El usuario puede seleccionar el número de plantas (de 1 a 6) y observar cómo c
 - La primera planta en alcanzar el techo es la ganadora  
 - Se muestra una tabla con el orden de llegada  
 
----
+
 
 ## ▶️ Cómo usar
 
@@ -96,7 +110,7 @@ index.html
 3. Seleccionar número de plantas  
 4. Pulsar **Iniciar**  
 
----
+
 
 ## 🌐 Demo online
 
@@ -110,13 +124,13 @@ Puedes ver el proyecto funcionando aquí:
 
 </div>
 
----
+
 
 ## 📚 Documentación
 
 Incluye un documento PDF con todo el desarrollo del proyecto dentro del repositorio.
 
----
+
 
 ## 👨‍💻 Autor
 
