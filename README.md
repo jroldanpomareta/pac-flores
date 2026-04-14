@@ -1,10 +1,10 @@
 <div align="center">
 
-<h1>🌱 Invernadero Virtual</h1>
-<p>Proyecto Desarrollo de Interfaces Web - UF2</p>
+<h1>Aplicación Web Invernadero Virtual 🌱</h1>
+
 
 <img src="img/invernadero/invernadero.png" width="700"/>
-
+<p>Proyecto Desarrollo de Interfaces Web - UF2</p>
 <br>
 
 <img src="https://img.shields.io/badge/HTML-5-orange"/>
