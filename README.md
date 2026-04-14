@@ -102,7 +102,7 @@ index.html
 
 Puedes ver el proyecto funcionando aquí:
 
-👉 https://TUUSUARIO.github.io/TUREPO/
+👉 [https://TUUSUARIO.github.io/TUREPO/](https://jroldanpomareta.github.io/invernadero/)
 
 ---
 
