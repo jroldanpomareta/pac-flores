@@ -1,3 +1,4 @@
+![Uploading Captura de pantalla 2026-04-14 193130.png…]()
 <div align="center">
 
 <h1>Aplicación Web Invernadero Virtual 🌱</h1>
